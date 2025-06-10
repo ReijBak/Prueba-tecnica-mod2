@@ -8,7 +8,7 @@ ID: 1000540387 - E-mail: stevencardona2001@gmail.com
 
 Portafolio personal dónde encontrarás info sobre quien soy, enfocado al aŕea del desarrollo de software, mostrando mis habilidades (Skills) tanto en desarrollo, como en habilidades blandas. También encontrarás algunos de mis primeros proyectos en HTML y CSS según he ido progresando, finalmente encontrarás un apertado de "contacto" dónde podrás dejar tu info si deseas que te contacte, o contáctame directamente en las redes que están en el pie de página.
 
-Maquetación
+## Maquetación
 
 - Se utilizó para la maquetación del "header" una distribución flexbox para utulizar todo el ancho de la pantalla.
 
